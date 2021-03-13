@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coder Bruh\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "D:\\Coder Bruh\\Github\\Lab7mvc1\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "D:\\Coder Bruh\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "D:\\Coder Bruh\\Github\\Lab7mvc1\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coder Bruh\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "D:\\Coder Bruh\\Github\\Lab7mvc1\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "D:\\Coder Bruh\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "D:\\Coder Bruh\\Github\\Lab7mvc1\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\ijk22\\.nuget\\packages\\",
-        "outputPath": "D:\\Coder Bruh\\ContosoUniversity\\obj\\",
+        "outputPath": "D:\\Coder Bruh\\Github\\Lab7mvc1\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
